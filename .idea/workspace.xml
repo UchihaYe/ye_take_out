@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d6b45f3e-7c83-4d23-bca2-7a91bf6a91f4" name="默认变更列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/program files/apache-maven-3.6.1" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="excludeTargetFolder" value="false" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+  </component>
+  <component name="ProjectId" id="27q21tdRpZ5IfI4FeF6nWGF7sen" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/ye/dto" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="模块" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Java Projects\ye_take_out\src\main\java\com\ye\dto" />
+      <recent name="F:\Java Projects\ye_take_out\src\main\java\com\ye\entity" />
+      <recent name="F:\Java Projects\ye_take_out\src\main\java\com\ye\service\impl" />
+      <recent name="F:\Java Projects\ye_take_out\src\main\java\com\ye\service" />
+      <recent name="F:\Java Projects\ye_take_out\src\main\java\com\ye\mapper" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.ye.service.impl" />
+      <recent name="com.ye.service" />
+      <recent name="com.ye.mapper" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Application">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test01.page (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ye_take_out" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ye.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ye.controller" />
+      <option name="MAIN_CLASS_NAME" value="com.ye.controller.Test01" />
+      <option name="METHOD_NAME" value="page(java.lang.String)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test01.page (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ye_take_out" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ye.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ye.controller" />
+      <option name="MAIN_CLASS_NAME" value="com.ye.controller.Test01" />
+      <option name="METHOD_NAME" value="page" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test01.page" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ye_take_out" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ye.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ye.controller" />
+      <option name="MAIN_CLASS_NAME" value="com.ye.controller.Test01" />
+      <option name="METHOD_NAME" value="page(int,int,java.lang.String)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="ye_take_out" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ye.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ye.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.Application" />
+        <item itemvalue="JUnit.Test01.page (2)" />
+        <item itemvalue="JUnit.Test01.page (1)" />
+        <item itemvalue="JUnit.Test01.page" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="d6b45f3e-7c83-4d23-bca2-7a91bf6a91f4" name="默认变更列表" comment="" />
+      <created>1650033098980</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1650033098980</updated>
+      <workItem from="1650033100642" duration="190000" />
+      <workItem from="1650033310839" duration="113000" />
+      <workItem from="1650033476589" duration="2640000" />
+      <workItem from="1650107960805" duration="7717000" />
+      <workItem from="1650197769558" duration="7419000" />
+      <workItem from="1650281911714" duration="7976000" />
+      <workItem from="1650347486079" duration="4171000" />
+      <workItem from="1650439096277" duration="61000" />
+      <workItem from="1650445850948" duration="5714000" />
+      <workItem from="1650458485054" duration="20000" />
+      <workItem from="1650458544730" duration="7765000" />
+      <workItem from="1650507586097" duration="2464000" />
+      <workItem from="1650510155507" duration="1513000" />
+      <workItem from="1650511704981" duration="62000" />
+      <workItem from="1650511784766" duration="1637000" />
+      <workItem from="1650517319179" duration="275000" />
+      <workItem from="1650517662442" duration="288000" />
+      <workItem from="1650518028512" duration="34000" />
+      <workItem from="1650518310486" duration="575000" />
+      <workItem from="1650518924979" duration="134000" />
+      <workItem from="1650519082026" duration="4390000" />
+      <workItem from="1650594086531" duration="3842000" />
+      <workItem from="1650633546790" duration="2992000" />
+      <workItem from="1650636592597" duration="5455000" />
+      <workItem from="1650692780616" duration="10100000" />
+      <workItem from="1650773259644" duration="5615000" />
+      <workItem from="1650783026309" duration="9780000" />
+      <workItem from="1650806006414" duration="7607000" />
+      <workItem from="1650854921193" duration="13058000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="SpringBootApplicationConfigurationType">
+        <watch expression="metaObject.originalObject" />
+        <watch expression="queryWrapper" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
