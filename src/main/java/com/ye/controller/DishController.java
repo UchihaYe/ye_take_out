@@ -226,6 +226,7 @@ public class DishController {
     @DeleteMapping
 //    批量删除
     public R<String> deleteBatchDish(@RequestParam("ids") List<Long> id) {
+
         return dishService.deleteBatchByIds(id);
     }
 

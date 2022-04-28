@@ -4,8 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d6b45f3e-7c83-4d23-bca2-7a91bf6a91f4" name="默认变更列表" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ye_takeout.sql" afterDir="false" />
+    <list default="true" id="d6b45f3e-7c83-4d23-bca2-7a91bf6a91f4" name="默认变更列表" comment="放入了sql文件">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ye/controller/DishController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ye/controller/DishController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/backend/page/food/add.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/backend/page/food/add.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ye_takeout.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/backend/page/food/add.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/backend/page/food/add.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ye/controller/DishController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ye/controller/DishController.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +69,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/ye/dto" />
@@ -90,19 +98,6 @@
     </key>
   </component>
   <component name="RunManager" selected="Spring Boot.Application">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Test01.page (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ye_take_out" />
       <extension name="coverage">
@@ -209,8 +204,23 @@
       <workItem from="1650773259644" duration="5615000" />
       <workItem from="1650783026309" duration="9780000" />
       <workItem from="1650806006414" duration="7607000" />
-      <workItem from="1650854921193" duration="13365000" />
+      <workItem from="1650854921193" duration="14908000" />
+      <workItem from="1650896634208" duration="2441000" />
+      <workItem from="1650948937864" duration="2318000" />
+      <workItem from="1650958186538" duration="1602000" />
+      <workItem from="1650959837779" duration="8412000" />
+      <workItem from="1651029359028" duration="110000" />
+      <workItem from="1651029590769" duration="55000" />
+      <workItem from="1651029673202" duration="13946000" />
     </task>
+    <task id="LOCAL-00001" summary="放入了sql文件">
+      <created>1650878925934</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1650878925934</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -226,9 +236,12 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="放入了sql文件" />
+    <option name="LAST_COMMIT_MESSAGE" value="放入了sql文件" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
