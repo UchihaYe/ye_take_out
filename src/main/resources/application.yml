@@ -1,5 +1,5 @@
 server:
-  port: 80
+  port: 8082
 spring:
   application:
     name: ye_take_out
