@@ -230,6 +230,7 @@ public class DishController {
         return dishService.deleteBatchByIds(id);
     }
 
+
     @PostMapping("/status/{status}")
 //    批量启售、停售
     public R<String> updateStatus(@PathVariable Integer status, @RequestParam("ids") List<Long> id) {
