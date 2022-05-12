@@ -1,6 +1,11 @@
 server:
-  port: 80
+  port: 8082
 spring:
+  redis:
+    host: 127.0.0.1
+    port: 6379
+#    password: root@123456
+    database: 0
   application:
     name: ye_take_out
   datasource:
@@ -19,3 +24,5 @@ mybatis-plus:
       id-type: ASSIGN_ID
 ye:
   path: F:\学习\瑞吉外卖-资料\瑞吉图片\
+
+
