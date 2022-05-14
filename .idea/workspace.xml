@@ -4,17 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d6b45f3e-7c83-4d23-bca2-7a91bf6a91f4" name="默认变更列表" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ye/config/RedisConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/ye/config/RedisConfig.class" afterDir="false" />
+    <list default="true" id="d6b45f3e-7c83-4d23-bca2-7a91bf6a91f4" name="默认变更列表" comment="放入了sql文件">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ye/controller/DishController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ye/controller/DishController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ye/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ye/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ye/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ye/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ye/common/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ye/common/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ye/controller/SetmealController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ye/controller/SetmealController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ye/Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ye/Application.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ye/common/R.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ye/common/R.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/ye/controller/DishController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ye/controller/DishController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ye/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ye/controller/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ye/controller/SetmealController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ye/controller/SetmealController.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,17 +109,6 @@
     </key>
   </component>
   <component name="RunManager" selected="Spring Boot.Application">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Test01.page (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ye_take_out" />
       <extension name="coverage">
@@ -186,6 +176,7 @@
         <item itemvalue="JUnit.Test01.page (2)" />
         <item itemvalue="JUnit.Test01.page (1)" />
         <item itemvalue="JUnit.Test01.page" />
+        <item itemvalue="Spring Boot.Application" />
       </list>
     </recent_temporary>
   </component>
@@ -245,6 +236,9 @@
       <workItem from="1652278759881" duration="1375000" />
       <workItem from="1652281612971" duration="83000" />
       <workItem from="1652339001243" duration="10297000" />
+      <workItem from="1652413314708" duration="651000" />
+      <workItem from="1652518893495" duration="2476000" />
+      <workItem from="1652522916640" duration="800000" />
     </task>
     <task id="LOCAL-00001" summary="放入了sql文件">
       <created>1650878925934</created>
